@@ -1,0 +1,431 @@
+.frame-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 637.36px;
+  	width: 802.6px;
+  	height: 1024px;
+}
+.icon {
+  	position: absolute;
+  	top: 215px;
+  	left: 876.73px;
+  	width: 563.3px;
+  	height: 537px;
+  	object-fit: cover;
+}
+.hey-there-im {
+  	position: absolute;
+  	top: 215px;
+  	left: 174.54px;
+  	font-family: Allura;
+}
+.frame-item {
+  	position: absolute;
+  	top: 382.23px;
+  	left: 310.06px;
+  	border-radius: 50%;
+  	border: 3px dashed #18c2c2;
+  	box-sizing: border-box;
+  	width: 222px;
+  	height: 75px;
+  	transform:  rotate(-8.4deg);
+  	transform-origin: 0 0;
+}
+.a-passionate-uiux {
+  	position: absolute;
+  	top: 385px;
+  	left: 174.54px;
+  	font-size: 30px;
+  	line-height: 48px;
+  	display: inline-block;
+  	width: 641.6px;
+}
+.frame-inner {
+  	position: absolute;
+  	top: 718px;
+  	left: 174.54px;
+  	border-radius: 15px;
+  	background: linear-gradient(110.71deg, #f5fefe, #9be5e5);
+  	width: 377.4px;
+  	height: 99.3px;
+}
+.get-resume {
+  	position: absolute;
+  	top: 743.63px;
+  	left: 243.23px;
+  	font-size: 50px;
+  	line-height: 48px;
+  	color: inherit;
+  	text-decoration: none;
+}
+.line-icon {
+  	position: absolute;
+  	top: 43.5px;
+  	left: 326.61px;
+  	width: 725.2px;
+  	height: 590.4px;
+  	object-fit: contain;
+}
+.frame-child1 {
+  	position: absolute;
+  	top: 510.35px;
+  	left: 81.16px;
+  	width: 541.1px;
+  	height: 430.8px;
+  	object-fit: contain;
+}
+.frame-child2 {
+  	position: absolute;
+  	top: 372.72px;
+  	left: 496.29px;
+  	width: 246.7px;
+  	height: 312.1px;
+  	object-fit: contain;
+  	opacity: 0.25;
+}
+.frame-child3 {
+  	position: absolute;
+  	top: 632.67px;
+  	left: 612.89px;
+  	width: 174.3px;
+  	height: 146px;
+  	object-fit: contain;
+}
+.bindu-priya {
+  	position: absolute;
+  	top: 30px;
+  	left: 87px;
+  	font-family: 'Almendra Display';
+  	white-space: pre-wrap;
+  	display: flex;
+  	align-items: center;
+  	width: 267px;
+  	height: 41px;
+  	text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.5);
+}
+.contact {
+  	position: absolute;
+  	top: 22px;
+  	left: 1273px;
+  	display: flex;
+  	align-items: center;
+  	width: 140px;
+  	height: 44px;
+}
+.work {
+  	position: absolute;
+  	top: 22px;
+  	left: 1156px;
+  	display: flex;
+  	align-items: center;
+  	width: 102px;
+  	height: 44px;
+  	cursor: pointer;
+}
+.aout-me {
+  	position: absolute;
+  	top: 22px;
+  	left: 995px;
+  	display: flex;
+  	align-items: center;
+  	width: 146px;
+  	height: 44px;
+}
+.home {
+  	position: absolute;
+  	top: 22px;
+  	left: 877px;
+  	display: flex;
+  	align-items: center;
+  	width: 103px;
+  	height: 44px;
+}
+.bindu-priya-parent {
+  	position: absolute;
+  	top: 0px;
+  	left: calc(50% - 720px);
+  	width: 1440px;
+  	height: 100px;
+  	overflow: hidden;
+  	font-size: 40px;
+  	font-family: 'Almendra SC';
+}
+.vector-parent {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1440px;
+  	height: 1024px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 100px;
+}
+.material-symbols-lightrocket-icon {
+  	position: absolute;
+  	top: 1125.83px;
+  	left: 759.8px;
+  	width: 122.5px;
+  	height: 122.5px;
+  	overflow: hidden;
+  	object-fit: contain;
+}
+.material-symbols-lightrocket-icon1 {
+  	position: absolute;
+  	top: 2187.21px;
+  	left: 161.09px;
+  	width: 150.1px;
+  	height: 150.1px;
+  	overflow: hidden;
+  	object-fit: contain;
+}
+.my-projects {
+  	position: absolute;
+  	top: 1055px;
+  	left: 117.09px;
+  	font-size: 100px;
+  	font-family: Allura;
+  	text-align: left;
+}
+.desktop-7-child {
+  	position: absolute;
+  	top: 1108.65px;
+  	left: 173.95px;
+  	width: 1157.3px;
+  	height: 1682.8px;
+  	object-fit: contain;
+}
+.component-7-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 15px;
+  	background: linear-gradient(110.71deg, #f5fefe, #9be5e5);
+  	width: 819.1px;
+  	height: 418.8px;
+}
+.recipe-sharing-website {
+  	position: absolute;
+  	top: calc(50% - 124.62px);
+  	left: 284.92px;
+  	line-height: 88px;
+  	display: inline-block;
+  	width: 249.2px;
+  	height: 249.2px;
+}
+.website-where-cooks {
+  	position: absolute;
+  	top: calc(50% - 168.01px);
+  	left: calc(50% - 316.77px);
+  	font-size: 30px;
+  	line-height: 48px;
+  	display: inline-block;
+  	width: 679.5px;
+  	opacity: 0;
+}
+.component-7 {
+  	position: absolute;
+  	top: 60.61px;
+  	left: 430.56px;
+  	width: 819.1px;
+  	height: 418.8px;
+}
+.dell-xps-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 640px;
+  	height: 540px;
+  	object-fit: cover;
+}
+.component-10 {
+  	position: absolute;
+  	top: 1187.17px;
+  	left: calc(50% - 624.82px);
+  	width: 1249.6px;
+  	height: 540px;
+}
+.event {
+  	margin: 0;
+}
+.event-website {
+  	position: absolute;
+  	top: 121.39px;
+  	left: 221.5px;
+  	line-height: 88px;
+  	display: inline-block;
+  	width: 249.2px;
+}
+.this-is-an {
+  	position: absolute;
+  	top: calc(50% - 168.01px);
+  	left: calc(50% - 367.18px);
+  	font-size: 30px;
+  	line-height: 48px;
+  	display: inline-block;
+  	width: 671px;
+  	opacity: 0;
+}
+.rectangle-parent {
+  	position: absolute;
+  	top: 73.55px;
+  	left: 0px;
+  	width: 819.1px;
+  	height: 418.8px;
+}
+.dell-xps-icon1 {
+  	position: absolute;
+  	top: 0px;
+  	left: 609.64px;
+  	width: 640px;
+  	height: 540px;
+  	object-fit: contain;
+}
+.component-9 {
+  	position: absolute;
+  	top: 1647.21px;
+  	left: calc(50% - 624.82px);
+  	width: 1249.6px;
+  	height: 540px;
+}
+.bindu-priya-gorantla {
+  	position: absolute;
+  	bottom: 0px;
+  	left: calc(50% - 91px);
+  	line-height: 50px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 183px;
+  	height: 33px;
+}
+.bindu-priya-gorantla-wrapper {
+  	position: absolute;
+  	bottom: 0px;
+  	left: calc(50% - 720px);
+  	width: 1440px;
+  	height: 100px;
+  	overflow: hidden;
+  	font-size: 20px;
+  	color: rgba(0, 0, 0, 0.5);
+}
+.lets-connect {
+  	position: absolute;
+  	top: 0px;
+  	left: calc(50% - 157px);
+  	font-size: 48px;
+  	line-height: 88px;
+  	display: inline-block;
+  	width: 314px;
+  	height: 70px;
+}
+.interested-in-working {
+  	position: absolute;
+  	top: 90px;
+  	left: calc(50% - 325px);
+  	line-height: 50px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 650px;
+  	height: 122px;
+}
+.get-in-touch {
+  	position: absolute;
+  	top: 232px;
+  	left: calc(50% - 302px);
+  	line-height: 50px;
+  	color: inherit;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 168px;
+  	height: 50px;
+  	text-decoration: none;
+}
+.div {
+  	position: absolute;
+  	top: 232px;
+  	left: calc(50% - 119px);
+  	line-height: 50px;
+}
+.my-linkedin {
+  	position: absolute;
+  	top: 232px;
+  	left: calc(50% - 92px);
+  	line-height: 50px;
+  	color: inherit;
+  	text-decoration: none;
+}
+.div1 {
+  	position: absolute;
+  	top: 232px;
+  	left: calc(50% + 89px);
+  	line-height: 50px;
+}
+.about-me {
+  	position: absolute;
+  	top: 232px;
+  	left: calc(50% + 116px);
+  	line-height: 50px;
+}
+.lets-connect-parent {
+  	position: absolute;
+  	top: 3886px;
+  	left: calc(50% - 325px);
+  	width: 650px;
+  	height: 282px;
+  	font-size: 32px;
+}
+.music-sharing-app-container {
+  	position: absolute;
+  	top: 77.39px;
+  	left: 263.7px;
+  	line-height: 88px;
+  	display: inline-block;
+  	width: 249.2px;
+}
+.music-sharing-app-is {
+  	position: absolute;
+  	top: calc(50% - 168.01px);
+  	left: calc(50% - 321.79px);
+  	font-size: 30px;
+  	line-height: 48px;
+  	white-space: pre-wrap;
+  	display: inline-block;
+  	width: 675.4px;
+  	opacity: 0;
+}
+.rectangle-group {
+  	position: absolute;
+  	top: 48.61px;
+  	left: 430.56px;
+  	width: 819.1px;
+  	height: 418.8px;
+}
+.iphone-16-pro-2 {
+  	position: absolute;
+  	top: 0.26px;
+  	left: 0px;
+  	width: 719.8px;
+  	height: 540px;
+  	object-fit: cover;
+}
+.component-11 {
+  	position: absolute;
+  	top: 2164px;
+  	left: 113px;
+  	width: 1249.6px;
+  	height: 540px;
+}
+.desktop-7 {
+  	width: 100%;
+  	position: relative;
+  	background: linear-gradient(269.19deg, #fff, #aff1f1);
+  	height: 4268px;
+  	overflow: hidden;
+  	text-align: center;
+  	font-size: 50px;
+  	color: #000;
+  	font-family: Amiri;
+}
+
